@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/vaibhavi-patil-/"><img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:vaibhavipatil4156@gmail.com"><img src="https://img.shields.io/badge/Email-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://drive.google.com/file/d/1cSYSJQJ0Oi1IPcu_F5vWPjP89WOErTWj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-A855F7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+<a href="https://drive.google.com/file/d/1_zi7LSWCtcguNG7irmbh7K6PWcIsYvpR/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-A855F7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 <a href="https://github.com/vaibhavi1512"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
